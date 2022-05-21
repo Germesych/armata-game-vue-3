@@ -4,7 +4,10 @@
       <h1 class="title">Топ видео / стримы</h1>
       <div class="col-block">
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-1.jpeg" alt="">
+          </div>
+          <!-- /.img -->
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -18,7 +21,10 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-1.jpeg" alt="">
+          </div>
+          <!-- /.img -->
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -32,7 +38,9 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-2.jpeg" alt="">
+          </div>
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -46,7 +54,9 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-3.jpeg" alt="">
+          </div>
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -60,7 +70,9 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-1.jpeg" alt="">
+          </div>
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -74,7 +86,9 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-2.jpeg" alt="">
+          </div>
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -88,7 +102,10 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-3.jpeg" alt="">
+          </div>
+          <!-- /.img -->
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
@@ -102,7 +119,9 @@
         </div>
         <!-- /.col -->
         <div class="col">
-          <img src="@/assets/img/video-1.jpeg" alt="">
+          <div class="img">
+            <img src="@/assets/img/video-1.jpeg" alt="">
+          </div>
           <div class="col-title row-2">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores dicta dolore eos, esse ex explicabo fuga fugiat id illum minima, natus neque nihil non recusandae repellat reprehenderit, tenetur voluptatibus?
           </div>
