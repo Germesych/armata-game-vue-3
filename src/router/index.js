@@ -4,6 +4,7 @@ import AboutUsPage from "@/views/AboutUsPage";
 import MediaPage from "@/views/MediaPage";
 import NewsPage from "@/views/NewsPage";
 import CommunityPage from "@/views/CommunityPage";
+import AboutGamePage from "@/views/AboutGamePage";
 
 const routes = [
   {
@@ -30,6 +31,11 @@ const routes = [
     path: '/community',
     name: 'community',
     component: CommunityPage
+  },
+  {
+    path: '/game',
+    name: 'game',
+    component: AboutGamePage
   }
 ]
 

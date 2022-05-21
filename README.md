@@ -1,6 +1,11 @@
-# armata-vue3
+# Разработка фанового сайта игры Armored Warfare
 
-## Project setup
+## Проект разрабатывактся Vue-3
+
+### Игра доступна:
+[Сайт игры](https://awru.my.games/)
+
+## ------------------ Project setup ------------------
 ```
 npm install
 ```

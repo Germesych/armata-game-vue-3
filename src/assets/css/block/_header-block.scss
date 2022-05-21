@@ -1,0 +1,21 @@
+.header-block{
+  position: relative;
+  background-image: linear-gradient(rgba(100, 100, 100, 0.25), rgba(0, 0, 0, .4)), url('../img/bg-blk4.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 550px;
+  .title{
+    margin: 0;
+    color: var(--text-color);
+    font-size: 72px;
+    text-transform: uppercase;
+  }
+  .content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
