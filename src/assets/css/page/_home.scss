@@ -112,8 +112,40 @@
     }
 
     .flex {
+      justify-content: space-between;
+      align-items: center;
     }
-
+    .last-video{
+      position: relative;
+      max-width: 700px;
+      width: 100%;
+      height: 400px;
+      border-radius: 6px;
+      overflow: hidden;
+      .icon{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 65px;
+        height:40px;
+        border-radius: 7px;
+        background: red;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        svg{
+          width: 35px;
+          fill: #fff;
+        }
+      }
+      img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+    }
     .icon {
       margin-bottom: -10px;
       display: inline-block;

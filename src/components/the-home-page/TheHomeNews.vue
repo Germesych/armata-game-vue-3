@@ -6,7 +6,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/1.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -23,7 +23,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/2.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -40,7 +40,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/3.png" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -57,7 +57,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/4.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -74,7 +74,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/5.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -91,7 +91,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/6.png" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -108,7 +108,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/7.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
@@ -125,7 +125,7 @@
         <div class="col">
           <router-link class="link" to="/"></router-link>
           <div class="img-block">
-            <img src="@/assets/img/bg.jpeg" alt="" width="270" height="150">
+            <img src="@/assets/img/posts/8.jpeg" alt="" width="270" height="150">
             <span class="category">category</span>
             <div class="date">09.03.2022</div>
           </div>
